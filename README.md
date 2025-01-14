@@ -57,6 +57,7 @@ python remove_shadow.py --input_image path/to/image.jpg --output_dir results/
 
 ## Folder structure
 
+```
 shadow-removal/
 │
 ├── checkpoint/           # Saved model checkpoints
@@ -74,3 +75,4 @@ shadow-removal/
 ├── requirements.txt      # Project dependencies
 ├── run.sh                # Shell script for running the project
 └── run_windows.sh        # Windows-specific run script
+```
