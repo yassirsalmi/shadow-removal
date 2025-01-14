@@ -33,11 +33,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. Verify installation:
-```bash
-python remove_shadow.py --help
-```
-
 ## Download Checkpoints
 Download the pretrained checkpoints from the [original project's Google Drive](https://drive.google.com/drive/folders/1Rg5He8XIY8qP4JYPFRRGUIvfZUcqm8zt?usp=sharing):
 
