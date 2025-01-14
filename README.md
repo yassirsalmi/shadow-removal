@@ -76,3 +76,7 @@ shadow-removal/
 ├── run.sh                # Shell script for running the project
 └── run_windows.sh        # Windows-specific run script
 ```
+
+## Authors
+- [Yassir Salmi](https://github.com/yassirsalmi)
+- [Abdeljalil Ounaceur](https://github.com/Abdeljalil-Ounaceur)
