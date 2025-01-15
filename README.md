@@ -52,7 +52,8 @@ python convert_checkpoint.py
 
 ## Usage
 ```bash
-python remove_shadow.py --input_image path/to/image.jpg --output_dir results/
+chmod +x run.sh
+./run.sh
 ```
 
 ## Folder structure
